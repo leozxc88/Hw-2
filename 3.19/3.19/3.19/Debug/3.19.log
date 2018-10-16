@@ -1,0 +1,5 @@
+﻿  3.19.c
+c:\users\leo\desktop\hw2 (10月18日繳交)\3.19\3.19\3.19\3.19.c(10): warning C4477: 'scanf_s' : 格式字串 '%f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'double'
+c:\users\leo\desktop\hw2 (10月18日繳交)\3.19\3.19\3.19\3.19.c(10): error C4700: 使用了未初始化的區域變數 'loan'
+c:\users\leo\desktop\hw2 (10月18日繳交)\3.19\3.19\3.19\3.19.c(19): error C4700: 使用了未初始化的區域變數 'rate'
+c:\users\leo\desktop\hw2 (10月18日繳交)\3.19\3.19\3.19\3.19.c(19): error C4700: 使用了未初始化的區域變數 'days'
